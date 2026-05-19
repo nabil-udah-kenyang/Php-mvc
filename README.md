@@ -1,13 +1,28 @@
 # PHP|MVC
 
 <p align="center">
-  <strong>PHP|MVC</strong><br>
+  <img src="https://www.php.net/images/logos/new-php-logo.svg" width="150" alt="PHP Logo">
+</p>
+
+<h2 align="center">PHP|MVC</h2>
+
+<p align="center">
   Aplikasi CRUD data mahasiswa sederhana dengan konsep MVC menggunakan PHP native, Bootstrap, jQuery, dan MySQL.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim">
 </p>
 
 ---
 
-## Logo
+## Logo Project
 
 ```text
 ╔════════════════╗
@@ -58,7 +73,7 @@ phpmvc/
 └── README.md
 ```
 
-## Teknologi
+## Teknologi dan Tools
 
 - PHP Native
 - MySQL
@@ -66,6 +81,21 @@ phpmvc/
 - Bootstrap
 - jQuery
 - XAMPP / LAMPP
+- Visual Studio Code
+- Neovim
+
+## Stack yang Digunakan
+
+| Logo | Nama | Fungsi |
+| --- | --- | --- |
+| <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"> | PHP Native | Bahasa utama untuk membuat aplikasi web dan menjalankan pola MVC. |
+| <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"> | MySQL | Database untuk menyimpan data mahasiswa. |
+| <img src="https://img.shields.io/badge/PDO-555555?style=flat-square" alt="PDO"> | PDO | Penghubung antara PHP dan database MySQL. |
+| <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"> | Bootstrap | Framework CSS untuk membuat tampilan lebih rapi dan responsif. |
+| <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="jQuery"> | jQuery | Digunakan untuk Ajax pada proses ambil data ubah mahasiswa. |
+| <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white" alt="XAMPP"> | XAMPP / LAMPP | Server lokal untuk menjalankan Apache dan MySQL. |
+| <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"> | Visual Studio Code | Code editor yang bisa digunakan untuk mengedit project. |
+| <img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" alt="Neovim"> | Neovim | Editor terminal yang bisa digunakan untuk coding dan navigasi file. |
 
 ## Cara Pakai
 
